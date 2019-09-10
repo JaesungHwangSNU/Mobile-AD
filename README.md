@@ -35,3 +35,7 @@
        - ROAS = 광고를 통해 발생한 매출액/광고비용 * 100  
   1. ROI(Return On Invest)  
        - ROI = 순이익/투자금액 * 100
+
+
+### Reference
+   - https://m.blog.naver.com/cauly_ads/221443448338
